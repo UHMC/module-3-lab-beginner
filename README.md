@@ -1,4 +1,4 @@
-# Module 6a - Beginner Lab: Wallets
+# Module 3 - Beginner Lab: Wallets
 
 ## Background
 In the context of Bitcoin and cryptocurrencies in general, the term ``wallet" refers to a physical medium, software, or service that keeps track of private and public keys. Wallets facillitate the transactions for sending and receiving cryptocurrency. Ethereum wallets also 
